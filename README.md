@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://github.com/Mithesh14/bookmark-landing-page-master">Bookmark landing page</a>
-- Live Site URL: <a href="https://github.com/Mithesh14/bookmark-landing-page-master">Bookmark landing page</a>
+- Live Site URL: <a href="https://mithesh14.github.io/bookmark-landing-page-master/">Bookmark landing page</a>
 
 ## My process
 
